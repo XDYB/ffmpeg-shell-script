@@ -1,5 +1,5 @@
 # FFmpeg Shell Script
-Bash Script Examples with FFmpeg, 一些sh脚本使用FFmpeg命令批量处理视频文件
+Bash Script Examples with FFmpeg, 使用FFmpeg批量处理视频文件
 
 ## 一些实例
 
